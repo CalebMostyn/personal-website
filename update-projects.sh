@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Hardcoded for now, could be an argument if I start adding modules in other locations
 TARGET_DIR="projects/"
 
 if [[ ! -d "$TARGET_DIR" ]]; then
