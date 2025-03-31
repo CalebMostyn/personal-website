@@ -1,0 +1,3 @@
+[submodule "projects/movie-tracker"]
+	path = projects/movie-tracker
+	url = https://github.com/CalebMostyn/movie-tracker.git
