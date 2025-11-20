@@ -1,0 +1,11 @@
+.navbar-custom {
+    border-radius: 15px;
+    margin: 10px;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 3px;
+}
+
+p {
+    margin: 10px;
+}
